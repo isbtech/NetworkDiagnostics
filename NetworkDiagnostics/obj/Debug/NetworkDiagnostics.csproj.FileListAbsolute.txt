@@ -1,0 +1,6 @@
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\NetworkDiagnostics.exe.config
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\NetworkDiagnostics.exe
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\NetworkDiagnostics.pdb
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.csprojResolveAssemblyReference.cache
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.exe
+E:\projects\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\NetworkDiagnostics.pdb
