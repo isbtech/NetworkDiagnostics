@@ -11,7 +11,7 @@ namespace NetworkDiagnostics
         private static void Main(string[] args)
         {
 
-            Console.Title = "Network Diagnostics";
+            Console.Title = "Network Diagnostics - Author: no1z";
 
             while (true)
             {
