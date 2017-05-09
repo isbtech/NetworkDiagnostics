@@ -11,10 +11,11 @@ namespace NetworkDiagnostics
         private static void Main(string[] args)
         {
 
-            Console.Title = "Network Diagnostics - Author: no1z";
+           
 
             while (true)
             {
+                Console.Title = "Network Diagnostics";
                 Console.Clear();
                 Console.Write("Which tool would you like to use?\n0 - Close the tool\n1 - Port Checker\n2 - Ping Utility\nEnter a number: ");
 
